@@ -16,6 +16,18 @@ PostgreSQL was used to explore and analyse the data, while Power BI was used to 
 - Which merchants receive the highest transaction value?
   
 ### Dataset
+The project uses a synthetic banking dataset containing customer, account, card, loan, merchant, branch, and transaction data.
+
+The dataset includes:
+- 50,000 customers
+- 75,000 accounts
+- 100,000 cards
+- 30,000 loans
+- 5,000 merchants
+- 500 branches
+- 1,000,000 transactions
+
+The data was sourced from Kaggle and used for learning and portfolio purposes.
 
 ## Tools Used
 
