@@ -35,8 +35,21 @@ The data was sourced from Kaggle and used for learning and portfolio purposes.
 - **SQL** – used to answer business questions around customer behaviour, account usage, transaction trends, merchant performance, and loan segments.
 - **DAX** – used for measures such as customer count, account count, transaction count, transaction value, average transaction value, and customer total balance.
   
+### Data Model
 ## Data Model
+The dataset contains several related tables covering customers, accounts, cards, loans, merchants, and transactions.
 
+The main relationships used in Power BI were:
+
+- Customers → Accounts
+- Customers → Loans
+- Accounts → Cards
+- Accounts → Transactions
+- Merchants → Transactions
+
+The branches table was kept separate because there was no direct relationship linking it to the other tables.
+
+These relationships allowed customer, account, transaction, merchant, and loan information to be analysed together across the dashboard.
 ## SQL Analysis
 
 ## Power BI Dashboard
