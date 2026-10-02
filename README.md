@@ -74,21 +74,16 @@ The Power BI report was built across three pages to keep the analysis clear and 
 Interactive slicers were added for account type and date period so the results can be explored across different segments and time ranges.
 
 ## Key Insights
-* **Account types are almost evenly distributed across the portfolio.** Checking accounts represent **33.45%** of all accounts, followed by Savings at **33.28%** and Business at **33.26%**, showing that the three account types are distributed very evenly.
+Account types are almost evenly distributed across the portfolio. Checking accounts represent 33.45% of all accounts, followed by Savings at 33.28% and Business at 33.26%, showing that the three account types are distributed very evenly.
+Most customers hold only a small number of accounts. The largest group is customers with 1 account (16,617), followed by 2 accounts (12,663). Account ownership drops sharply after that, with only 5 customers holding 8 accounts.
+Monthly transaction value is broadly stable over time rather than showing sustained growth. Transaction value fluctuates within a relatively consistent range, while month-on-month growth moves between positive and negative changes.
+Transaction value and transaction frequency do not perfectly align. Business accounts generated the highest total transaction value at about $1.668bn, while Checking accounts recorded the highest transaction count at 333,454. This shows that the account type with the most transactions is not necessarily the one generating the most value.
+A small high-value, low-engagement customer segment was identified. Using an analyst-defined threshold of more than $500K in total balance and fewer than 30 transactions, some customers were identified as holding high balances while making relatively few transactions. The number of customers meeting this condition changes depending on the selected date period.
+Loan status shows almost no difference in average customer balance. Non-loan customers had an average total balance of $193,473.48, compared with $193,445.13 for loan customers, showing very little difference between the two groups.
+Non-loan customers form the larger customer segment. The dataset contains 27,414 non-loan customers compared with 22,586 loan customers, which is roughly a 55% / 45% split.
+Higher transaction activity does not always imply a higher customer balance. Among the most active customers, total balances vary widely, showing that transaction activity and customer balance should be looked at separately.
 
-* **Most customers hold only a small number of accounts.** The largest group is customers with **1 account (16,617)**, followed by **2 accounts (12,663)**. Account ownership drops sharply after that, with only **5 customers** holding 8 accounts.
 
-* **Monthly transaction value is broadly stable over time rather than showing sustained growth.** Transaction value fluctuates within a relatively consistent range, while month-on-month growth moves between positive and negative changes.
-
-* **Transaction value and transaction frequency do not perfectly align.** Business accounts generated the highest total transaction value at about **$1.668bn**, while Checking accounts recorded the highest transaction count at **333,454**. This shows that the account type with the most transactions is not necessarily the one generating the most value.
-
-* **A small high-value, low-engagement customer segment was identified.** Using an analyst-defined threshold of **more than $500K in total balance and fewer than 30 transactions**, some customers were identified as holding high balances while making relatively few transactions. The number of customers meeting this condition changes depending on the selected date period.
-
-* **Loan status shows almost no difference in average customer balance.** Non-loan customers had an average total balance of **$193,473.48**, compared with **$193,445.13** for loan customers, showing very little difference between the two groups.
-
-* **Non-loan customers form the larger customer segment.** The dataset contains **27,414 non-loan customers** compared with **22,586 loan customers**, which is roughly a **55% / 45% split**.
-
-* **Higher transaction activity does not always imply a higher customer balance.** Among the most active customers, total balances vary widely, showing that transaction activity and customer balance should be looked at separately.
 
 ## Limitations
 This project uses a synthetic dataset, so the results are intended for analysis and learning rather than real-world business decision-making.
