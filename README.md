@@ -29,8 +29,12 @@ The dataset includes:
 
 The data was sourced from Kaggle and used for learning and portfolio purposes.
 
-## Tools Used
-
+### Tools Used
+- **PostgreSQL / pgAdmin** – used for data validation, SQL analysis, joins, aggregations, CTEs, and window functions.
+- **Power BI** – used to build the data model, create DAX measures, apply slicers, and develop the interactive dashboard.
+- **SQL** – used to answer business questions around customer behaviour, account usage, transaction trends, merchant performance, and loan segments.
+- **DAX** – used for measures such as customer count, account count, transaction count, transaction value, average transaction value, and customer total balance.
+  
 ## Data Model
 
 ## SQL Analysis
