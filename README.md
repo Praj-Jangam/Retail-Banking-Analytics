@@ -28,6 +28,7 @@ The dataset includes:
 - 1,000,000 transactions
 
 The data was sourced from Kaggle and used for learning and portfolio purposes.
+https://www.kaggle.com/datasets/akrambelha/synthetic-banking-dataset-csv-sql-sqlite?utm_source=chatgpt.com
 
 ## Tools Used
 - **PostgreSQL / pgAdmin** – used for data validation, SQL analysis, joins, aggregations, CTEs, and window functions.
