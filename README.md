@@ -73,6 +73,8 @@ The Power BI report was built across three pages to keep the analysis clear and 
 
 Interactive slicers were added for account type and date period so the results can be explored across different segments and time ranges.
 <img width="1045" height="590" alt="Screenshot 2026-09-29 at 12 36 23 AM" src="https://github.com/user-attachments/assets/100a496e-afba-4ba7-9e5c-b50f5cc9b638" />
+<img width="1039" height="579" alt="Screenshot 2026-09-29 at 12 46 53 AM" src="https://github.com/user-attachments/assets/6527a4fc-854a-496f-93a2-4c116e5b61ef" />
+<img width="2084" height="1176" alt="image" src="https://github.com/user-attachments/assets/92b1c281-c0a5-4b5b-8d0e-92edd88a59f0" />
 
 ## Key Insights
 - Account types are almost evenly distributed across the portfolio. Checking accounts represent 33.45% of all accounts, followed by Savings at 33.28% and Business at 33.26%, showing that the three account types are distributed very evenly.
