@@ -69,8 +69,10 @@ The Power BI report was built across three pages to keep the analysis clear and 
 
 - **Executive Overview** – summarises the main KPIs, monthly transaction value, account type performance, and top merchants by transaction value.
 <img width="1045" height="590" alt="Screenshot 2026-09-29 at 12 36 23 AM" src="https://github.com/user-attachments/assets/100a496e-afba-4ba7-9e5c-b50f5cc9b638" />
+
 - **Customer & Account Analysis** – focuses on customer account ownership, customer balances, transaction activity, loan status, and top customers.
 <img width="1039" height="579" alt="Screenshot 2026-09-29 at 12 46 53 AM" src="https://github.com/user-attachments/assets/6527a4fc-854a-496f-93a2-4c116e5b61ef" />
+
 - **Transactions & Account Performance** – compares account types, monthly transaction activity, high-value low-engagement customers, and top merchants by transaction count.
 <img width="2084" height="1176" alt="image" src="https://github.com/user-attachments/assets/92b1c281-c0a5-4b5b-8d0e-92edd88a59f0" />
 
