@@ -1,0 +1,17 @@
+Measures
+	1.	Account Count = DISTINCTCOUNT(accounts[account_id])
+	2.	Average Transaction Value = AVERAGE(transactions[amount_usd])
+	3.	Customer Count = DISTINCTCOUNT(customers[customer_id])
+	4.	Customer Total Balance = SUM(accounts[balance_usd])
+	5.	Total Transaction Value = SUM(transactions[amount_usd])
+	6.	Transaction Count = COUNT(transactions[transaction_id])
+
+Customer Columns
+1.Loan Status = 
+IF(
+    COUNTROWS(RELATEDTABLE(loans)) > 0,
+    "Loan Customer",
+    "Non-Loan Customer"
+)
+
+2.Number of Accounts = COUNTROWS(RELATEDTABLE(accounts))
