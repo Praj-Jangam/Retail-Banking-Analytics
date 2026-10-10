@@ -1,4 +1,4 @@
-# Retail Banking Payments & Customer Behaviour Analytics
+# Retail Banking Payments & Customer Behaviour Analysis
 
 ## Project Overview
 This project analyses a synthetic retail banking dataset to understand customer behaviour, account usage, transaction activity, merchant performance, and loan-related patterns.
